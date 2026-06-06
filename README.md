@@ -83,9 +83,7 @@ Currently focused on Generative AI, Data Science, Backend Engineering, and scala
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hari2809-art&theme=tokyonight&row=1&column=7" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=hari2809-art&theme=onedark)
 
 ---
 
