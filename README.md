@@ -68,29 +68,37 @@ Currently focused on Generative AI, Data Science, Backend Engineering, and scala
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hari2809-art&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari2809-art&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hari2809-art&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari2809-art&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=hari2809-art&theme=city_lights&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari2809-art&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hari2809-art&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hari2809-art&theme=tokyonight&row=1&column=7" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Harinath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hari2809-art&theme=github-compact)](https://github.com/hari2809-art)
+[![Harinath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hari2809-art&theme=tokyo-night)](https://github.com/hari2809-art)
 
 ---
 
 ## 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=hari2809-art&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hari2809-art&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
