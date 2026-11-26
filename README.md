@@ -1,13 +1,14 @@
 # Hi 👋, I'm Harinath Gurram
 
-### AI & Machine Learning Engineer | Python Developer | Data Analytics Enthusiast
+### Aspiring Data Analyst | AI & Machine Learning Enthusiast
 
-AI & Machine Learning graduate (2026) with experience in Machine Learning, Data Analytics, NLP, and Backend Development.
+AI & Machine Learning graduate (2026) passionate about Data Analytics, Machine Learning, and transforming raw data into meaningful business insights.
 
-Built projects including Netflix Content Clustering, Zomato Sentiment Analysis, Store Intelligence Platform, and Student Management System. Skilled in Python, Java, SQL, and data-driven application development.
+Built real-world projects including Customer Data Analysis, Supply Chain Analysis, Netflix Content Clustering, Zomato Sentiment Analysis, and iTunes Music Store Analysis.
 
-Currently focused on Generative AI, Data Science, Backend Engineering, and scalable software systems.
+Skilled in Python, SQL, Excel, Power BI, Java, and Machine Learning, with hands-on experience in data cleaning, exploratory data analysis (EDA), data visualization, statistical analysis, and predictive modeling.
 
+Currently focused on strengthening my Data Analytics skills while exploring AI, Machine Learning, and Generative AI.
 ---
 
 ## 🌐 Connect With Me
